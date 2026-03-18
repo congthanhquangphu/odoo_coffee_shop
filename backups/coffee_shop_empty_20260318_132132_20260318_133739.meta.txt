@@ -1,0 +1,7 @@
+db_name=coffee_shop_empty_20260318_132132
+created_at=20260318_133739
+dump_file=backups/coffee_shop_empty_20260318_132132_20260318_133739.dump
+size=4.4M
+sha256=c2f377ec67c0fc1a3787db36d68b81df9cad9f91d54ddfedb402785cf67b9b9b
+installed_modules=60
+product_count=110
